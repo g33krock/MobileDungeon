@@ -9,10 +9,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/webpack-config": "^18.0.1",
+    "@popmotion/popcorn": "^0.4.4",
+    "d3-shape": "^3.2.0",
     "expo": "~48.0.18",
     "expo-status-bar": "~1.4.4",
+    "randomcolor": "^0.6.2",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-dom": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-nfc-manager": "^3.14.5",
+    "react-native-svg": "13.4.0",
+    "react-native-web": "~0.18.10"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
